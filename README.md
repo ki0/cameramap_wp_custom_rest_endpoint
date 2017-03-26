@@ -1,0 +1,1 @@
+# cameramap_wp_custom_rest_endpoint
